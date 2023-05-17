@@ -11,7 +11,7 @@ A Simple Proxy Tool Build Using Nodejs/Express/Axios To BYPASS And Tunnel API Re
 
 ## Usage/Examples
 
-###### Make A "POST" Request To ProxyEND POINT With Your Desired URL In The Body, The EndPoint Request The URL Response 
+###### Make A "POST" Request To ProxyEND POINT With Your Desired URL In The Body, The EndPoint Returns Your URL Response 
 
 ```
 PROXYURL : localhost:5000
